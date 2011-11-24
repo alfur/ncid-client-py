@@ -1,0 +1,4 @@
+simple ncid client with logging
+
+meant to be run with supervisord
+
